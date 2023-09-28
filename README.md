@@ -1,2 +1,2 @@
-# Study-Estudos
-repositório destinado a documentação e conteúdo de meus estudos  
+# Projetos Data
+neste repositório é possivel encontrar projetos desenvolvidos na área de Data Science

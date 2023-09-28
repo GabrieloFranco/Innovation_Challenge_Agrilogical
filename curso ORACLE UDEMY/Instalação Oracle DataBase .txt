@@ -1,4 +1,0 @@
-Dowload e Instalação do Oracle Database 21c XE
-1º criar conta e logar no site da Oracle
-2º baixar Java JDK 17 ou posterior x64 MSI
-LINK DOCUMENTAÇÂO JAKA JDK (https://docs.oracle.com/en/java/javase/19/index.html)
